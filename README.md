@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarikkh
-- 👀 I’m interested in game development 
-- 🌱 I’m currently learning full stack development
+- 👀 I'm interested in cybersecurity
+- 🌱 I’m currently learning penetration testing
 
 <!---
 tarikkh/tarikkh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
