@@ -37,6 +37,6 @@ I started learning programming a year ago, and I'm also interested in penetratio
 <a href="https://github.com/tarikkh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarikkh&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### LeetCode
-<p align="left">
-  ![LeetCode Image](https://leetcard.jacoblin.cool/tarikkh?site=cn)
-</p>
+
+
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
